@@ -1,0 +1,246 @@
+Part 1: Demographics
+
+1. What is your age? [number entry]
+2. What is your gender?
+(a) Male; (b) Female; (c) Non-binary/third gender; (d) Prefer not to answer
+3. What is the highest level of education you have completed?
+(a) No schooling completed; (b) Less than high school; (c) High school/GED;
+(d) College/bachelor’s degree/associate’s degree; (e) After bachelor’s
+degree/master’s degree/professional degree (e.g., MD)/doctorate degree (PhD);
+(f) Other: [free text]; (g) Prefer not to answer
+4. What is your current occupation?
+(a) Architecture and Engineering Occupations; (b) Arts, Design, Entertainment,
+Sports, and Media Occupations; (c) Sales and Related Occupations; (d)
+Business and Financial Operations Occupations; (e) Building and Grounds
+Cleaning and Maintenance Occupations; (f) Management Occupations; (g)
+Education, Training, and Library Occupations; (h) Personal Care and Service
+Occupations; (i) Protective Service Occupations; (j) Computer and Mathematical
+Occupations; (k) Life, Physical, and Social Science Occupations; (l)
+Production Occupations; (m) Healthcare Practitioners and Technical Occupations;
+(n) Food Preparation and Serving Related Occupations; (o) Office and
+Administrative Support Occupations; (p) Farming, Fishing, and Forestry
+Occupations; (q) Installation, Maintenance, and Repair Occupations; (r) Legal
+Occupations; (s) Construction and Extraction Occupations; (t) Community
+and Social Service Occupations; (u) Healthcare Support Occupations; (v)
+Transportation and Materials Moving Occupations; (w) A student; (x) Retired;
+(y) Out of work; (z) Unable to work; (aa) Other: [free text]; (ab) Prefer
+not to answer
+5. What was your total household income in USD before taxes during the
+past 12 months?
+(a) <$25k; (b) $25k-50k; (c) $50k-75k; (d) $75k-100k; (e) $100k-125k; (f)
+$125k-150k; (g) $150k-175k; (h) $175k-200k; (i) >$200k; (j) Prefer not to
+answer
+
+Part 2: DeFi trading background
+
+1. How long have you been trading cryptocurrency? (a. Enter your answer in
+“years”, e.g., enter “1.5” for one and half a year.) [number entry]
+2. What percentage of your financial assets are allocated in cryptocurrency?
+(a. Enter your answer in “percentages”, e.g., enter “75” for allocating 75% of
+your assets in the crypto; b. Enter “0” if you ever owned cryptocurrencies
+but have sold them out, or their value has fallen to zero.) [number entry]
+3. How long have you been trading cryptocurrency on DeFi? (a. Enter your
+answer in “years”, e.g., enter “1.5” for one and half a year.) [number entry]
+4. What percentage of your crypto assets are allocated in DeFi? (a. Enter
+your answer in “percentages”, e.g., enter “75” for allocating 75% of your
+crypto assets in DeFi; b. Enter “0” if used DeFi before but currently do not
+have any assets allocated in DeFi, or their value has fallen to zero.) [number
+entry]
+5. What DeFi protocols have you used on Ethereum? Please select all
+that apply.
+(a) Decentralized exchanges - protocols where you can swap cryptocurrency;
+(b) Lending/Yield farming - protocols that allow you to lend assets and receive
+rewards; (c) Borrowing/Flashloans - protocols that allow you to borrow assets;
+(d) Yield aggregator - protocols that aggregate yield from diverse protocols;
+(e) Staking - protocols that allow you to stake assets in exchange for rewards;
+(f) Bridges - protocols that bridge tokens from one blockchain to another; (g)
+Privacy - protocols that hide information about transactions; (h) Derivatives -
+protocols that track or provide exposure to an underlying asset; (i) Insurance
+- protocols that are designed to provide monetary protections; (j) Payments -
+protocols that facilitate payments in crypto, e.g., stream recurring salaries;
+(k) Gaming - protocols that have gaming components; (l) Other: [free text];
+(m) I have never used DeFi protocols on Ethereum
+
+Part 3: DeFi perceptions
+
+This section’s questions are asked in the context of exchange platforms and
+lending platforms, respectively. We show the exchange questions only for
+simplicity.
+1. What are the love points for using DEX? Please select no more than three
+love points and manually rank them from 1 to 3, where “1” represents the
+most important love point. (a. You can set the same rank for two or three
+options.)
+(a) There is no KYC required; (b) Its decentralization nature; (c) It’s easy
+to use; (d) Transaction fees are cheap; (e) Transactions are processed fast;
+(f) It’s transparent; (g) I can earn more money; (h) It can be accessed easily;
+(i) It has more opportunities; (j) It’s secure; (k) It has an active development
+team; (l) High liquidity; (m) It has good documentation; (n) Other 1: [free
+text]; (o) Other 2: [free text]; (p) Other 3: [free text]; (q) I don’t have love
+points
+2. What are the pain points for using DEX? Please select no more than three
+pain points and manually rank them from 1 to 3, where “1” represents the
+most important pain point. (a. You can set the same rank for two or three
+options.)
+(a) Mobile using is not good/no mobile support; (b) Lack of explanation
+when transactions fail or don’t work as expected; (c) High slippage; (d)
+Some tokens are not listed/lack of assets; (e) Fair hardware wallet support;
+(f) Transaction fees are expensive; (g) Low liquidity; (h) Couldn’t see the
+current safe gas allowance; (i) It has no fiat gate; (j) Steep learning curve; (k)
+Low profit; (l) User interface is not designed well; (m) Security in general;
+(n) Other 1: [free text]; (o) Other 2: [free text]; (p) Other 3: [free text]; (q) I
+don’t have pain points
+3. Rate DEX, CEX for cryptocurrencies and CEX for fiat currencies in terms
+of the level of your “Preference”.
+(a) Strongly unpreferred; (b) Unpreferred; (c) Neutral; (d) Preferred; (e)
+Strongly preferred
+4. How would you rate the “Security” of DEX, CEX for cryptocurrencies and
+CEX for fiat currencies? (a. Security is the quality or state of being secure.)
+(a) Very insecure; (b) Insecure; (c) Neutral; (d) Secure; (e) Very secure
+5. Could you explain why you gave that score for the Security of DEX? [free
+text]
+6. How would you rate the “Usability” of DEX, CEX for cryptocurrencies
+and CEX for fiat currencies? (a. Usability is the degree of ease with which
+applications can be used to achieve required goals effectively and efficiently.)
+(a) Very hard to use; (b) Hard to use; (c) Neutral; (d) Easy to use; (e) Very
+easy to use
+7. Could you explain why you gave that score for the Usability of DEX?
+[free text]
+8. How would you rate the “Transparency” of DEX, CEX for cryptocurrencies
+and CEX for fiat currencies? (a. Transparency is the extent to which a
+subject discloses business information, including operational and transactional
+details, etc.)
+(a) Very opaque; (b) Opaque; (c) Neutral; (d) Transparent; (e) Very transparent
+9. How would you rate the “Trust” of DEX, CEX for cryptocurrencies and
+CEX for fiat currencies? (a. Trust is the degree of confidence you place in a
+subject.)
+(a) Very untrustworthy; (b) Untrustworthy; (c) Neutral; (d) Trustworthy; (e)
+Very trustworthy
+10. What’s the color of the sky in the daytime?
+(a) blue; (b) black; (c) red; (d) green; (e) yellow
+
+Part 4: DeFi risk awareness and mitigation
+
+1. What risks are you aware of in DeFi? Please select no more than three
+concerning risks, and manually rank them from 1 to 3, where “1” represents
+the biggest concern. (a. You can set the same rank for two or three options.)
+(a) Financial risks (price changes due to volatility or liquidity); (b) Phishing
+(social engineering attacks that trick you into giving over sensitive information);
+(c) Smart contract exploitation (vulnerabilities in smart contracts are
+exploited); (d) Rug-pull (the project team sells all of their holdings and leaves
+the coin worthless); (e) Wallet dusting/Airdrop scam (scammers deposit an
+amount of unknown coins into your wallet); (f) Regulatory uncertainty (possibility
+of certain DeFi apps being regulated in the U.S.); (g) Theft of private
+key (the private key securing smart contract or personal wallet is compromised);
+(h) Instability of stablecoins (stablecoins may be de-pegged from
+U.S. dollar); (i) Other 1: [free text]; (j) Other 2: [free text]; (k) Other 3: [free
+text]; (l) I don’t think there are any risks
+For each selected risk,
+2. With respect to the concerning risk you selected: Risk Name, have you
+adopted any preventive measure? Please select all that apply.
+(a) I use a strategy that averages my buy-in price; (b) I do my own research;
+(c) I audit smart contract myself; (d) I bookmark official sites and smart
+contract addresses; (e) I regularly check and revoke token approvals; (f) I
+store my crypto in several wallets; (g) I have cold/hardware wallets; (h) I use
+a separate browser for my wallets; (i) I check crypto news almost daily; (j) I
+only invest how much I am willing to lose; (k) I enable two-factor authentication
+to secure my wallets; (l) I deal more with stablecoins; (m) Other: [free
+text]; (n) I don’t have preventive measures to mitigate this risk; (o) I don’t
+think there are preventive measures to mitigate this risk
+
+Part 5: Experiences of DeFi hacks
+
+DeFi hack, which is different from a DeFi scam, refers to the act of identifying
+and then exploiting vulnerabilities in the DeFi domain. Common DeFi
+hacks include unauthorized wallet access, protocol exploits, etc.
+1. Have you experienced DeFi hack incidents? Please enter the number of
+DeFi hack incidents that you have experienced. (a. Estimate a number if you
+don’t remember exactly; b. Enter “0” if you believe you never experienced
+DeFi hacks.) [number entry]
+2. (if the number is greater than 0) Have you suffered financial loss from the
+DeFi hack incidents you have experienced?
+(a) Yes; (b) No; (c) I have no idea
+3. (if the number is greater than 0) Has your belief or perception of DeFi
+changed after experiencing the DeFi hack?
+(a) Yes, it gets decreased; (b) No, it doesn’t change/even gets stronger; (c) I
+have no idea
+4. (if yes) Why does your belief or perception of DeFi get decreased after
+DeFi hacks? Please select all that apply.
+(a) I didn’t trust DeFi after the hack; (b) I found I didn’t know DeFi well; (c)
+DeFi is not fully decentralized; (d) There are too many risks around DeFi;
+(e) I could lose all my assets; (f) Other: [free text]
+5. (if no) Why does your belief or perception of DeFi keep the same/even get
+stronger after DeFi hacks? Please select all that apply.
+(a) It was my fault, I could have been smarter; (b) I made more research after
+the hack; (c) I am a full-time DeFi trader; (d) I am making profits regularly
+from DeFi; (e) The technology outweighs the downside of hacks; (f) I can
+use trustworthy DeFi apps; (g) It was a risk that I was willing to take; (h)
+Other: [free text]
+6. (if the number is greater than 0) Recall the most recent DeFi hack incident
+that you experienced, what type of DeFi hack did it fall into?
+(a) Price manipulation attack (hacker influences the token price and arbitrage
+from it); (b) Re-entrancy attack (hacker constructs a malicious contract that
+can re-enter the execution of the protocol smart contract); (c) Theft of private
+key for my own wallets (my wallet private key is compromised); (d) Theft of
+private key for protocol smart contract (the private key securing the protocol
+smart contract is compromised); (e) Cross-chain bridge attack (hacker
+exploits the vulnerability in the mechanisms transferring crypto between
+blockchains); (f) Protocol front-end attack (hacker inserts his/her wallet address
+on the protocol website); (g) Logic/code error attack (hacker exploits
+the protocol vulnerability, e.g. design flaws and coding mistakes); (h) Other:
+[free text]; (i) I have no idea
+7. (if the number is greater than 0) Recall the most recent DeFi hack incident
+that you experienced, whom do you want to blame? (a. Giving a higher number
+to a party means that party should take more responsibility for having
+made you a victim; b. The sum of the “blame” distribution must be 10.)
+(a) Developer: [number entry]; (b) Hacker: [number entry]; (c) Auditor:
+[number entry]; (d) Myself: [number entry]
+8. (if the number is greater than 0) Recall the most recent DeFi hack incident
+that you experienced, what did you do to try to mitigate further loss/recover
+loss? Please select all that apply.
+(a) I contacted developers, and they offered me compensations; (b) I contacted
+developers, but no reply; (c) I contacted developers, and they said they
+couldn’t help me; (d) I asked for authority/legal aid; (e) I immediately sold
+out all the victim tokens; (f) I invested more in other DeFi protocols; (g) I
+disconnected my wallet from every site; (h) I revoked every token approval
+on my wallet; (i) Other: [free text]; (j) I actually did nothing but moved on
+9. Which of the following is a vegetable?
+(a) Egg; (b) Salmon; (c) Broccoli; (d) Milk; (e) Beef
+
+Part 6: Experiences of DeFi scams
+
+DeFi scam, which is different from a DeFi hack, refers to the act of tricking
+users or pretending to be a valid app and then draining users’ assets. Common
+DeFi scam includes depositing unknown coins into the victim’s wallet,
+protocol getting rug-pulled, etc.
+Questions 1-5 and 7-8 are the same questions asked in Part 5 but in the context
+of DeFi scams.
+6. (if the number is greater than 0) Recall the most recent DeFi scam incident
+that you experienced, what type of DeFi scam did it fall into?
+(a) Phishing (social engineering attacks that trick you into giving over sensitive
+information); (b) Rug-pull (the project team sells all of their holdings and
+leaves the coin worthless); (c) Wallet dusting/Airdrop scam (scammers deposit
+an amount of unknown coins into your wallet); (d) Stablecoin meltdown
+(stablecoin is de-pegged heavily from U.S. dollar and becomes worthless);
+(e) Other: [free text]; (f) I have no idea
+
+Part 7: Attitude to DeFi regulation
+
+Some authorities in the U.S. (e.g., the Securities and Exchange Commission)
+are making efforts to try to get DeFi platforms registered as broker-dealers
+or under other proposed regulation laws.
+1. Please select how much you agree or disagree with the following statement:
+“I am in favor of DeFi being regulated by authorities.”
+(a) Strongly disagree; (b) Somewhat disagree; (c) Neither agree nor disagree;
+(d) Somewhat agree; (e) Strongly agree
+2. For your reasons for objecting to DeFi regulation, please select all that
+apply.
+(a) I don’t think regulation will succeed; (b) Regulation will hinder innovation;
+(c) Regulation will introduce taxation; (d) Code is law; (e) Nefarious
+people can still find a way for malicious activities; (f) Other: [free text]; (g)
+N/A: I don’t have any objection
+3. For your reasons for supporting DeFi regulation, please select all that
+apply.
+(a) Users are less likely to lose money; (b) It can make DeFi a safe space;
+(c) DeFi should not be the Wild West; (d) Nefarious people can get proper
+punishment; (e) Other: [free text]; (f) N/A: I don’t have any agreement
+

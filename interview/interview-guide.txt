@@ -1,0 +1,61 @@
+Part 1: DeFi perceptions
+
+1. How do you manage your personal assets? What percentage of them are
+allocated to traditional trading markets and cryptocurrency trading markets, respectively?
+a. Are there any reasons you have this specific allocation?
+2. In terms of cryptocurrency markets, which one do you prefer, Centralized
+Finance or Decentralized Finance trading?
+a. You just said CeFi/DeFi trading, could you please explain why?
+
+Part 2: DeFi risk awareness and mitigation
+
+1. What factors influence your decision to become a user of a DeFi
+application?
+a. What do you think of applications with anonymous founders/celebrity
+endorsements?
+b. Do you check an application’s whitepaper/smart contract before using it?
+2. Have you stopped using some DeFi applications, and why?
+3. What kinds of risks do you think are associated with DeFi?
+4. Regarding the risks you mentioned above, do you have any preventive
+measures?
+a. (if participants ask for a clarification of preventive measures) The preventive
+measures are any actions that can mitigate risks and protect your assets.
+
+Part 3: Responses to DeFi hacks/scams
+
+1. Could you list some types of DeFi hacks or scams that you are aware of?
+2. Have you experienced DeFi hacks or scams?
+a. If yes, could you please share your story?
+• How many times of incidents have you experienced?
+• How and when did you know you were affected in that/each incident?
+• How much did you lose due to that/each incident?
+• What was the root cause of that/each incident?
+b. If not, what factors do you think have protected you from such incidents?
+3. (if the participant was a victim) Whom do you blame, the DeFi
+developers, hackers/scammers, auditors, or yourself when you have fallen
+victim?
+4. (if the participant was a victim) What did you do after the hack/scam
+incident happened?
+5. (if the participant was a victim) Are you satisfied with the developers’
+incident handling?
+a. If yes, what did they do right?
+b. If not, what aspects can they improve?
+6. (if the participant was a victim) In your view, what are the impacts of DeFi
+hacks/scams?
+a. What are the impacts on the victims, developers, auditors, and the DeFi
+community, respectively?
+7. (if the participant was a victim) Has your belief in cryptocurrency and
+DeFi changed after experiencing DeFi hacks/scams?
+a. Could you please explain?
+8. What actions do you think should be established or would be helpful against
+DeFi hacks/scams?
+
+Part 4: Attitude to DeFi regulation
+
+1. What’s your opinion that some authorities, for example, the U.S. Securities
+and Exchange Commission, intend to put DeFi under regulations?
+a. Are you in favor of it?
+• If yes, who should regulate DeFi? What should those regulations be?
+• If not, could you explain why?
+
+
