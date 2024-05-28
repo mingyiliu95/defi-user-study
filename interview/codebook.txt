@@ -145,6 +145,6 @@
 • Regulation will not succeed: Mention that regulating DeFi may not be effective or the current regulation laws do not fit in the DeFi domain.
 • Regulation hinders innovation: Mention that regulating DeFi hinders technological innovations.
 • Regulation introduces tax: Mention that regulating DeFi will bring tax implications.
-• Regulate CeFi: Mention that regulators should focus on CeFi
+• Regulate CeFi: Mention that regulators should focus on CeFi.
 
 
