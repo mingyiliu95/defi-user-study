@@ -46,8 +46,8 @@ your answer in “percentages”, e.g., enter “75” for allocating 75% of you
 crypto assets in DeFi; b. Enter “0” if used DeFi before but currently do not
 have any assets allocated in DeFi, or their value has fallen to zero.) [number
 entry]
-5. What DeFi protocols have you used on Ethereum? Please select all
-that apply.
+5. What DeFi protocols (https://defillama.com/categories) have you used on Ethereum?
+Please select all that apply.
 (a) Decentralized exchanges - protocols where you can swap cryptocurrency;
 (b) Lending/Yield farming - protocols that allow you to lend assets and receive
 rewards; (c) Borrowing/Flashloans - protocols that allow you to borrow assets;

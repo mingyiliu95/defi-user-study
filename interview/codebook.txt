@@ -1,150 +1,175 @@
-• Less than 25% in crypto: Allocate about 25% or less of personal assets to cryptocurrency markets.
-• 25% to 50% in crypto: Allocate about 25%-50% of personal assets to cryptocurrency markets.
-• 50% to 75% in crypto: Allocate about 50%-75% of personal assets to cryptocurrency markets.
-• More than 75% in crypto: Allocate about 75% or more of personal assets to cryptocurrency markets.
-• Preference for CeFi: Explicitly or implicitly inclined towards CeFi.
-• Preference for DeFi: Explicitly or implicitly inclined towards DeFi.
-• Less experienced in DeFi: The participant has less experience in DeFi.
-• Smart contract risks: The risks or exploits of vulnerabilities in smart contracts.
-• Transparency in DeFi: Acknowledge that DeFi is transparent in some respects.
-• Profitability of DeFi: Acknowledge that profits can be made in DeFi.
-• Mistrust in CeFi: Express distrust towards CeFi.
-• High accessibility of DeFi: Acknowledge that DeFi is easily accessible to users.
-• High usability of DeFi: Acknowledge that DeFi is easy to use in some respects.
-• Opportunity in DeFi: Acknowledge that DeFi enables various investment strategies.
-• High reliability of DeFi: Acknowledge that DeFi is reliable.
-• Anonymity in DeFi: Acknowledge that DeFi provides (pseudo-)anonymity.
-• Low fees: Mention or call for low transaction fees.
-• Cross-chain functionalities: Mention or call for cross-chain functionalities.
-• User-friendly UI: Mention or call for informed user interfaces.
-• Human contact: Mention or call for direct human interaction.
-• Security in general: Mention general security risks or call for general security guarantees.
-• High TVL: Mention a high total value locked as a factor influencing dApp adoption.
-• Backing from big projects: Mention support from renowned projects as a factor influencing dApp adoption.
-• Trust established anonyms: Regarding the dApp founder team, mention that anonymity does not matter if the dApp is reputable.
-• Anonymity does not matter: Regarding the dApp founder team, mention that anonymity does not matter.
-• Less trust in anonyms: Regarding the dApp founder team, have negative perceptions of anonymity.
-• Background of founder matters: Mention the background of the dApp founder is important in general.
-• Background of team matters: Mention the background of the dApp team is important in general.
-• Financial background matters: Regarding the dApp founder team, mention that a background in finance/financial services is important.
-• Background does not matter: Mention the background of the dApp founder team is not that important.
-• CS background does not matter: Mention the background in Computer Science of the dApp founder team is not that important.
-• Prefer endorsed projects: Have positive perceptions of celebrity-endorsed dApps.
-• Celebrity endorsement does not matter: Have neutral perceptions of celebrity-endorsed dApps.
-• Mistrust non-professionals: Have negative perceptions of celebrities’ endorsements because they are not DeFi professionals.
-• Mistrust paid advertising: Have negative perceptions of celebrities’ endorsements because they are paid.
-• Check whitepaper: Check the dApp’s whitepaper before using it.
-• Did not check whitepaper: Did not check the dApp’s whitepaper before using it.
-• Check smart contract: Check the dApp’s smart contract before using it.
-• Did not check smart contract: Did not check the dApp’s smart contract before using it.
-• Unaware of smart contract: Were not aware of the dApp’s smart contract.
-• Lack of transparency: Cite that the dApp’s opacity is the reason for stopping it.
-• Dead project: Cite that the dApp’s unavailability is the reason for stopping it.
-• Little returns: Cite that the dApp’s low profitability is the reason for stopping it.
-• Not secure: Cite that the dApp’s insecurity is the reason for stopping it.
-• Use for a specific purpose: Cite that the dApp’s use for a specific purpose is the reason for stopping it.
-• Rug-pull risks: Are aware of rug-pull risks in DeFi.
-• Phishing risks: Are aware of phishing risks in DeFi.
-• Airdrop scams: Are aware of the risks of airdrop scams in DeFi.
-• Honeypot scams: Are aware of the risks of honeypot scams in DeFi.
-• Other DeFi scams: Are aware of the risks of other or unspecified scams in DeFi.
-• Theft of private key: Are aware of the risks of accounts being hacked in DeFi.
-• Instability of stablecoins: Are aware of the risks of stablecoin de-pegging from 1 USD in DeFi.
-• Financial risks: Are aware of the risks of cryptocurrencies’ price volatility in DeFi.
-• Regulation risks: Are aware of the risks of regulation changes in DeFi.
-• Consensus risks: Are aware of the risks of blockchain consensus issues in DeFi.
-• Do research: Mention conducting due diligence in general to mitigate DeFi risks.
-• Limit account balance: Mention keeping a low investment amount to mitigate DeFi risks.
-• Check info frequently: Mention frequently checking cryptocurrency wallets or news to mitigate DeFi risks.
-• Two-factor authentication: Mention enabling two-factor authentication to mitigate DeFi risks.
-• Separate wallets: Mention using different wallets to mitigate DeFi risks.
-• Increase stablecoins: Mention investing more in stablecoins to mitigate DeFi risks.
-• Use hardware wallets: Mention adopting hardware wallets to mitigate DeFi risks.
-• Use cold wallets: Mention adopting cold wallets to mitigate DeFi risks.
-• Air-gapping devices: Mention generally adopting devices that are physically isolated from networks to mitigate DeFi risks.
-• Bookmark official sites: Mention saving common websites or smart contracts of dApps to mitigate DeFi risks.
-• Revoke approvals: Mention checking, reconfiguring, or revoking token approvals to mitigate DeFi risks.
-• Cost averaging: Mention investing money regularly to mitigate DeFi risks.
-• Auditing smart contract: Mention or call for auditing smart contracts to mitigate DeFi risks.
-• Fuzzing smart contract: Mention or call for specifically fuzzing smart contracts to mitigate DeFi risks.
-• Host bug bounty: Mention or call for specifically having bug bounty programs to mitigate DeFi risks.
-• Use separate browser: Mention using a different browser for cryptocurrency trading to mitigate DeFi risks.
-• Deactivate connection after use: Mention closing or logging out from dApps after use to mitigate DeFi risks.
-• Manually enter credentials: Mention entering wallet accounts or credentials manually to mitigate DeFi risks.
-• Aware of rug-pull: Are aware of rug-pull incidents.
-• Unaware of rug-pull: Unaware of rug-pull incidents.
-• Aware of smart contract attacks: Are aware of smart contract exploitation incidents.
-• Limited understanding of smart contract attacks: Are aware of but not comprehensively understand smart contract exploitation incidents.
-• Aware of theft attacks: Are aware of private key theft incidents.
-• Unaware of theft attacks: Unaware of private key theft incidents.
-• Limited understanding of incident types: Are aware of DeFi incidents but have a limited understanding of specific types.
-• Experience in DeFi hacks: Report falling victim to DeFi hack incidents.
-• Experience in DeFi scams: Report falling victim to DeFi scam incidents.
-• Experience in non-DeFi scams: Report falling victim to some incidents that are not related to DeFi.
-• Negative emotions: Report experiencing negative emotions when falling victim to DeFi incidents.
-• Multiple incident experience: Report falling victim to DeFi incidents multiple times.
-• Have financial loss: Report losing money from DeFi incidents.
-• Aware of root cause: Are aware of and comprehensively understand the root cause of the DeFi incident.
-• Limited understanding of root cause: Are aware of but not comprehensively understand the root cause of the DeFi incident.
-• Unaware of root cause: Unaware of the root cause of the DeFi incident.
-• Audits miss the vulnerability: Report that DeFi auditors overlooked smart contract vulnerabilities.
-• Blame developers: Hold developers accountable for falling victim.
-• Blame hackers: Hold hackers accountable for falling victim.
-• Blame themselves: Hold themselves accountable for falling victim.
-• Disconnect wallet: Mention disconnecting wallets from dApps after DeFi incidents.
-• Pause investing after incidents: Mention stopping trading for a while after DeFi incidents.
-• Stop trade on victim dApps: Mention stopping trading on the dApps that have been hacked or scammed after DeFi incidents.
-• Sell off after incidents: Mention promptly selling out cryptocurrencies or tokens after DeFi incidents.
-• Trade on victim dApps: Mention continuing trading on the dApps that have been hacked or scammed after DeFi incidents.
-• Invest more after incidents: Mention increasing investment in other dApps after DeFi incidents.
-• Contacted developers but no response: Mention trying to contact developers but did not receive responses after DeFi incidents.
-• No compensation: Mention that the dApps side did not compensate victims after DeFi incidents.
-• No report: Mention that the dApps side did not release postmortem reports after DeFi incidents.
-• Did not contact developers: Mention did not contact developers after DeFi incidents.
-• Asked for legal aid: Mention seeking assistance from legal services or authorities.
-• Did not consider legal aid: Mention that seeking assistance from legal services or authorities was not considered.
-• Different actions: Mention that the actions taken vary depending on the incidents.
-• Negative impacts on users: Mention the negative impacts of DeFi incidents on users.
-• Positive impacts on users: Mention the positive impacts of DeFi incidents on users.
-• Become more cautious: Mention users increasing caution as a specific impact of DeFi incidents.
-• Negative impacts on developers: Mention the negative impacts of DeFi incidents on developers.
-• Long-term financial impact on dApps: Mention that the financial impacts on victim dApps are long-term.
-• Short-term financial impact on dApps: Mention that the financial impacts on victim dApps are short-term.
-• Discourage developer teams: Mention the demoralization of developer teams as a specific impact of DeFi incidents.
-• No impact on developers: Mention no impacts of DeFi incidents on developers.
-• Positive impacts on developers: Mention the positive impacts of DeFi incidents on developers.
-• Negative impacts on auditors: Mention the negative impacts of DeFi incidents on auditors.
-• Negative impacts on community: Mention the negative impacts of DeFi incidents on the DeFi community.
-• No impact on community: Mention no impacts of DeFi incidents on the DeFi community.
-• Temporary impacts on community: Mention that the impacts of DeFi incidents on the DeFi community are temporary.
-• Belief declines: Mention beliefs or perceptions of DeFi decreasing after DeFi incidents.
-• Less trust after incidents: Mention reducing trust in DeFi after DeFi incidents.
-• Belief does not change: Mention that beliefs or perceptions of DeFi do not change or grow stronger after DeFi incidents.
-• Belief does not change after multiple incidents: Mention that beliefs or perceptions of DeFi do not change or grow stronger after multiple DeFi incidents.
-• Pros outweigh cons of DeFi: Mention that the advantages are more important than disadvantages in DeFi.
-• Countermeasures will prevail: Mention that DeFi security issues will be resolved by countermeasures.
-• External audits: Mention that DeFi users should be aware that dApps must have external auditors.
-• Verified communities: Mention that DeFi users should organize verified-name communities.
-• Phishing alert: Mention that dApps should implement features to alert users to phishing-like DeFi scams.
-• Simulation environment: Mention that dApps should implement a simulated environment to preview transactions.
-• User risk assessment: Mention that dApps should implement risk tolerance assessments for users.
-• Developer-user communications: Mention that dApps should improve communications with users.
-• Adopt latest techniques: Mention that dApps should employ advanced security practices.
-• Call for KYC: Mention that dApps should implement KYC to hold nefarious users accountable.
-• Multi-factor authentication: Mention that dApps should integrate multi-factor authentication techniques.
-• Research DeFi incidents: Mention that auditors should study the latest DeFi incidents to build up skills.
-• Community education: Mention that the community should educate DeFi users about DeFi knowledge, risks, or risk mitigations.
-• Have standards of conduct: Mention that the community should establish security guidelines for developers or users to follow.
-• Analyze DeFi stability: Mention that the community should study the ability of DeFi to maintain consistent performance and reliability over time.
-• Host training workshops: Mention that the community should organize DeFi training activities.
-• Rate audit companies: Mention that the community should review auditing companies openly.
-• In favor of regulations: Mention a preference for regulating DeFi.
-• Positive perceptions of regulations: Mention positive perceptions of regulating DeFi.
-• Governments regulate DeFi: Mention that it is centralized authorities that should regulate DeFi.
-• Negative perceptions of regulations: Mention negative perceptions of regulating DeFi.
-• Regulation will not succeed: Mention that regulating DeFi may not be effective or the current regulation laws do not fit in the DeFi domain.
-• Regulation hinders innovation: Mention that regulating DeFi hinders technological innovations.
-• Regulation introduces tax: Mention that regulating DeFi will bring tax implications.
-• Regulate CeFi: Mention that regulators should focus on CeFi.
+### Asset Distribution
+- Less than 25% in crypto: Allocate about 25% or less of personal assets to cryptocurrency markets.
+- 25% to 50% in crypto: Allocate about 25%-50% of personal assets to cryptocurrency markets.
+- 50% to 75% in crypto: Allocate about 50%-75% of personal assets to cryptocurrency markets.
+- More than 75% in crypto: Allocate about 75% or more of personal assets to cryptocurrency markets.
+### Preference
+- Preference for CeFi: Explicitly or implicitly inclined towards CeFi.
+- Preference for DeFi: Explicitly or implicitly inclined towards DeFi.
+### Security
+- Smart contract risks: The risks or exploits of vulnerabilities in smart contracts.
+- Security in general: Mention general security risks or call for general security guarantees.
+### Usability
+- High usability of DeFi: Acknowledge that DeFi is easy to use in some respects.
+- High accessibility of DeFi: Acknowledge that DeFi is easily accessible to users.
+- Opportunity in DeFi: Acknowledge that DeFi enables various investment strategies.
+- Anonymity in DeFi: Acknowledge that DeFi provides (pseudo-)anonymity.
+- Cross-chain functionalities: Mention or call for cross-chain functionalities.
+- User-friendly UI: Mention or call for informed user interfaces.
+- Human contact: Mention or call for direct human interaction.
+- Less experienced in DeFi: The participant has less experience in DeFi.
+### Transparency
+- Transparency in DeFi: Acknowledge that DeFi is transparent in some respects.
+### Trust
+- Mistrust in CeFi: Express distrust towards CeFi.
+- High reliability of DeFi: Acknowledge that DeFi is reliable.
+### Profitability
+- Profitability of DeFi: Acknowledge that profits can be made in DeFi.
+- Low fees: Mention or call for low transaction fees.
+### Trust Factors
+- High TVL: Mention a high total value locked as a factor influencing dApp adoption.
+- Backing from big projects: Mention support from renowned projects as a factor influencing dApp adoption.
+- Trust established anonyms: Regarding the dApp founder team, mention that anonymity does not matter if the dApp is reputable.
+- Anonymity does not matter: Regarding the dApp founder team, mention that anonymity does not matter.
+- Less trust in anonyms: Regarding the dApp founder team, have negative perceptions of anonymity.
+- Background of founder matters: Mention the background of the dApp founder is important in general.
+- Background of team matters: Mention the background of the dApp team is important in general.
+- Financial background matters: Regarding the dApp founder team, mention that a background in finance/financial services is important.
+- Background does not matter: Mention the background of the dApp founder team is not that important.
+- CS background does not matter: Mention the background in Computer Science of the dApp founder team is not that important.
+- Prefer endorsed projects: Have positive perceptions of celebrity-endorsed dApps.
+- Celebrity endorsement does not matter: Have neutral perceptions of celebrity-endorsed dApps.
+- Mistrust non-professionals: Have negative perceptions of celebrities’ endorsements because they are not DeFi professionals.
+- Mistrust paid advertising: Have negative perceptions of celebrities’ endorsements because they are paid.
+- Check whitepaper: Check the dApp’s whitepaper before using it.
+- Did not check whitepaper: Did not check the dApp’s whitepaper before using it.
+- Check smart contract: Check the dApp’s smart contract before using it.
+- Did not check smart contract: Did not check the dApp’s smart contract before using it.
+- Unaware of smart contract: Were not aware of the dApp’s smart contract.
+### Reasons for Discontinuing Use
+- Lack of transparency: Cite that the dApp’s opacity is the reason for stopping it.
+- Dead project: Cite that the dApp’s unavailability is the reason for stopping it.
+- Little returns: Cite that the dApp’s low profitability is the reason for stopping it.
+- Not secure: Cite that the dApp’s insecurity is the reason for stopping it.
+- Use for a specific purpose: Cite that the dApp’s use for a specific purpose is the reason for stopping it.
+### Perceived Risks
+- Rug-pull risks: Are aware of rug-pull risks in DeFi.
+- Phishing risks: Are aware of phishing risks in DeFi.
+- Airdrop scams: Are aware of the risks of airdrop scams in DeFi.
+- Honeypot scams: Are aware of the risks of honeypot scams in DeFi.
+- Other DeFi scams: Are aware of the risks of other or unspecified scams in DeFi.
+- Theft of private key: Are aware of the risks of accounts being hacked in DeFi.
+- Instability of stablecoins: Are aware of the risks of stablecoin de-pegging from 1 USD in DeFi.
+- Financial risks: Are aware of the risks of cryptocurrencies’ price volatility in DeFi.
+- Regulation risks: Are aware of the risks of regulation changes in DeFi.
+- Consensus risks: Are aware of the risks of blockchain consensus issues in DeFi.
+### Risk Mitigation
+- Do research: Mention conducting due diligence in general to mitigate DeFi risks.
+- Limit account balance: Mention keeping a low investment amount to mitigate DeFi risks.
+- Check info frequently: Mention frequently checking cryptocurrency wallets or news to mitigate DeFi risks.
+- Two-factor authentication: Mention enabling two-factor authentication to mitigate DeFi risks.
+- Separate wallets: Mention using different wallets to mitigate DeFi risks.
+- Increase stablecoins: Mention investing more in stablecoins to mitigate DeFi risks.
+- Use hardware wallets: Mention adopting hardware wallets to mitigate DeFi risks.
+- Use cold wallets: Mention adopting cold wallets to mitigate DeFi risks.
+- Air-gapping devices: Mention generally adopting devices that are physically isolated from networks to mitigate DeFi risks.
+- Bookmark official sites: Mention saving common websites or smart contracts of dApps to mitigate DeFi risks.
+- Revoke approvals: Mention checking, reconfiguring, or revoking token approvals to mitigate DeFi risks.
+- Cost averaging: Mention investing money regularly to mitigate DeFi risks.
+- Auditing smart contract: Mention or call for auditing smart contracts to mitigate DeFi risks.
+- Fuzzing smart contract: Mention or call for specifically fuzzing smart contracts to mitigate DeFi risks.
+- Host bug bounty: Mention or call for specifically having bug bounty programs to mitigate DeFi risks.
+- Use separate browser: Mention using a different browser for cryptocurrency trading to mitigate DeFi risks.
+- Deactivate connection after use: Mention closing or logging out from dApps after use to mitigate DeFi risks.
+- Manually enter credentials: Mention entering wallet accounts or credentials manually to mitigate DeFi risks.
+### Incident Understanding
+- Aware of rug-pull: Are aware of rug-pull incidents.
+- Unaware of rug-pull: Unaware of rug-pull incidents.
+- Aware of smart contract attacks: Are aware of smart contract exploitation incidents.
+- Limited understanding of smart contract attacks: Are aware of but not comprehensively understand smart contract exploitation incidents.
+- Aware of theft attacks: Are aware of private key theft incidents.
+- Unaware of theft attacks: Unaware of private key theft incidents.
+- Limited understanding of incident types: Are aware of DeFi incidents but have a limited understanding of specific types.
+### Incident Experience
+- Experience in DeFi hacks: Report falling victim to DeFi hack incidents.
+- Experience in DeFi scams: Report falling victim to DeFi scam incidents.
+- Experience in non-DeFi scams: Report falling victim to some incidents that are not related to DeFi.
+- Negative emotions: Report experiencing negative emotions when falling victim to DeFi incidents.
+- Multiple incident experience: Report falling victim to DeFi incidents multiple times.
+- Have financial loss: Report losing money from DeFi incidents.
+- Aware of root cause: Are aware of and comprehensively understand the root cause of the DeFi incident.
+- Limited understanding of root cause: Are aware of but not comprehensively understand the root cause of the DeFi incident.
+- Unaware of root cause: Unaware of the root cause of the DeFi incident.
+- Audits miss the vulnerability: Report that DeFi auditors overlooked smart contract vulnerabilities.
+### Accountability Perspectives
+- Blame developers: Hold developers accountable for falling victim.
+- Blame hackers: Hold hackers accountable for falling victim.
+- Blame themselves: Hold themselves accountable for falling victim.
+### Post-Incident Responses
+- Disconnect wallet: Mention disconnecting wallets from dApps after DeFi incidents.
+- Pause investing after incidents: Mention stopping trading for a while after DeFi incidents.
+- Stop trade on victim dApps: Mention stopping trading on the dApps that have been hacked or scammed after DeFi incidents.
+- Sell off after incidents: Mention promptly selling out cryptocurrencies or tokens after DeFi incidents.
+- Trade on victim dApps: Mention continuing trading on the dApps that have been hacked or scammed after DeFi incidents.
+- Invest more after incidents: Mention increasing investment in other dApps after DeFi incidents.
+- Contacted developers but no response: Mention trying to contact developers but did not receive responses after DeFi incidents.
+- No compensation: Mention that the dApps side did not compensate victims after DeFi incidents.
+- No report: Mention that the dApps side did not release postmortem reports after DeFi incidents.
+- Did not contact developers: Mention did not contact developers after DeFi incidents.
+- Asked for legal aid: Mention seeking assistance from legal services or authorities.
+- Did not consider legal aid: Mention that seeking assistance from legal services or authorities was not considered.
+- Different actions: Mention that the actions taken vary depending on the incidents.
+### Impacts on Users
+- Negative impacts on users: Mention the negative impacts of DeFi incidents on users.
+- Positive impacts on users: Mention the positive impacts of DeFi incidents on users.
+- Become more cautious: Mention users increasing caution as a specific impact of DeFi incidents.
+### Impacts on Developers
+- Negative impacts on developers: Mention the negative impacts of DeFi incidents on developers.
+- Long-term financial impact on dApps: Mention that the financial impacts on victim dApps are long-term.
+- Short-term financial impact on dApps: Mention that the financial impacts on victim dApps are short-term.
+- Discourage developer teams: Mention the demoralization of developer teams as a specific impact of DeFi incidents.
+- No impact on developers: Mention no impacts of DeFi incidents on developers.
+- Positive impacts on developers: Mention the positive impacts of DeFi incidents on developers.
+### Impacts on Auditors
+- Negative impacts on auditors: Mention the negative impacts of DeFi incidents on auditors.
+### Impacts on Community
+- Negative impacts on community: Mention the negative impacts of DeFi incidents on the DeFi community.
+- No impact on community: Mention no impacts of DeFi incidents on the DeFi community.
+- Temporary impacts on community: Mention that the impacts of DeFi incidents on the DeFi community are temporary.
+### Perception Changes
+- Belief declines: Mention beliefs or perceptions of DeFi decreasing after DeFi incidents.
+- Less trust after incidents: Mention reducing trust in DeFi after DeFi incidents.
+- Belief does not change: Mention that beliefs or perceptions of DeFi do not change or grow stronger after DeFi incidents.
+- Belief does not change after multiple incidents: Mention that beliefs or perceptions of DeFi do not change or grow stronger after multiple DeFi incidents.
+- Pros outweigh cons of DeFi: Mention that the advantages are more important than disadvantages in DeFi.
+- Countermeasures will prevail: Mention that DeFi security issues will be resolved by countermeasures.
+### User Initiatives
+- External audits: Mention that DeFi users should be aware that dApps must have external auditors.
+- Verified communities: Mention that DeFi users should organize verified-name communities.
+### Developer Initiatives
+- Phishing alert: Mention that dApps should implement features to alert users to phishing-like DeFi scams.
+- Simulation environment: Mention that dApps should implement a simulated environment to preview transactions.
+- User risk assessment: Mention that dApps should implement risk tolerance assessments for users.
+- Developer-user communications: Mention that dApps should improve communications with users.
+- Adopt latest techniques: Mention that dApps should employ advanced security practices.
+- Call for KYC: Mention that dApps should implement KYC to hold nefarious users accountable.
+- Multi-factor authentication: Mention that dApps should integrate multi-factor authentication techniques.
+### Auditor Initiatives
+- Research DeFi incidents: Mention that auditors should study the latest DeFi incidents to build up skills.
+### Community Initiatives
+- Community education: Mention that the community should educate DeFi users about DeFi knowledge, risks, or risk mitigations.
+- Have standards of conduct: Mention that the community should establish security guidelines for developers or users to follow.
+- Analyze DeFi stability: Mention that the community should study the ability of DeFi to maintain consistent performance and reliability over time.
+- Host training workshops: Mention that the community should organize DeFi training activities.
+- Rate audit companies: Mention that the community should review auditing companies openly.
+### Regulation Perspectives
+- In favor of regulations: Mention a preference for regulating DeFi.
+- Positive perceptions of regulations: Mention positive perceptions of regulating DeFi.
+- Governments regulate DeFi: Mention that it is centralized authorities that should regulate DeFi.
+- Negative perceptions of regulations: Mention negative perceptions of regulating DeFi.
+- Regulation will not succeed: Mention that regulating DeFi may not be effective or the current regulation laws do not fit in the DeFi domain.
+- Regulation hinders innovation: Mention that regulating DeFi hinders technological innovations.
+- Regulation introduces tax: Mention that regulating DeFi will bring tax implications.
+- Regulate CeFi: Mention that regulators should focus on CeFi.
 
 
