@@ -7,7 +7,7 @@
 - Preference for CeFi: Explicitly or implicitly inclined towards CeFi.
 - Preference for DeFi: Explicitly or implicitly inclined towards DeFi.
 ### Security
-- Smart contract risks: The risks or exploits of vulnerabilities in smart contracts.
+- Smart contract exploitation risks: The risks or exploits of vulnerabilities in smart contracts.
 - Security in general: Mention general security risks or call for general security guarantees.
 ### Usability
 - High usability of DeFi: Acknowledge that DeFi is easy to use in some respects.
@@ -61,7 +61,7 @@
 - Theft of private key: Are aware of the risks of accounts being hacked in DeFi.
 - Instability of stablecoins: Are aware of the risks of stablecoin de-pegging from 1 USD in DeFi.
 - Financial risks: Are aware of the risks of cryptocurrencies’ price volatility in DeFi.
-- Regulation risks: Are aware of the risks of regulation changes in DeFi.
+- Regulatory uncertainty risks: Are aware of the risks of regulation changes in DeFi.
 - Consensus risks: Are aware of the risks of blockchain consensus issues in DeFi.
 ### Risk Mitigation
 - Do research: Mention conducting due diligence in general to mitigate DeFi risks.
